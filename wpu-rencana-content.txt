@@ -3,6 +3,7 @@ RENCANA KONTEN
   * ES6
   * FRAMEWORK
    = Vue
+   = React
 - Struktur data dasar
 - PHP MVC
 - PHP OOP
