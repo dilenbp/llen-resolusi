@@ -1,0 +1,5 @@
+Halo, Salam kenal
+
+Resolusi Saya :
+- membuat website dengan framework PHP
+- membuat website dengan framework Javascript
