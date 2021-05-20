@@ -2,6 +2,8 @@ RENCANA KONTEN
 - Javascript
   * ES6
   * FRAMEWORK
+   = Vue
 - Struktur data dasar
 - PHP MVC
 - PHP OOP
+- Python
