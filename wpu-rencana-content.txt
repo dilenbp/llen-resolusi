@@ -4,6 +4,8 @@ RENCANA KONTEN
   * FRAMEWORK
    = Vue
    = React
+   = Angular
+   = NodeJs
 - Struktur data dasar
 - PHP MVC
 - PHP OOP
