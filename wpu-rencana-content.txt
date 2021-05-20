@@ -1,0 +1,6 @@
+RENCANA KONTEN
+- Javascript
+  * ES6
+  * FRAMEWORK
+- PHP MVC
+- PHP OOP
