@@ -2,6 +2,7 @@ RENCANA KONTEN
 - Javascript
   * ES6
   * FRAMEWORK
-- Struktur data dasar
+   = Angular
+   = React
 - PHP MVC
 - PHP OOP
